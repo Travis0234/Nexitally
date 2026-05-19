@@ -25,7 +25,7 @@
 
 ### ⚡ 技术规格与优势
 * **顶级线路：** 多条独立 **IEPL/IPLC 专线**接入，**境内BGP入口+多省原生入口**，**Anycast**任拨技术，无视高峰波动。
-* **线路模式：** 可自行设置 China-East, China-South 等**境内入口** ，也可切换为**海外直连**，无视特殊时期拔线风险，**稳定性更加**
+* **线路模式：** 可自行设置 China-East, China-South 等**境内入口** ，也可切换为**海外直连**，无视特殊时期拔线风险，**稳定性更佳**
 * **协议支持：** 全面支持 **SS (Shadowsocks)** 及 **Trojan** 协议。
 * **软件兼容：** **完美适配** Clash, Surge, Shadowrocket, Quantumult (X) 等主流客户端。
 * **节点说明：** **Premium** 节点需要单独购买 **Premium Access** 服务，Premium Access **依赖于**基础服务
