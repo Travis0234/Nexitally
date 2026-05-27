@@ -11,7 +11,7 @@
 
 **[👉 点击此处：前往🥛 Nexitally 奶昔机场 官方注册地址](https://nxonearth.com/signupbyemail.aspx?MemberCode=9b6eb72753fb4d8985ea7c21dea03c1720260314211249)**
 
-**[🎉 我的个人博客：科学上网技术分享](https://travisblog.qzz.io/)**
+**[🎉 我的个人博客：Travis's Blog | 科学上网 技术分享](https://travisblog.qzz.io/)**
 
 
 ### 📖 品牌介绍
