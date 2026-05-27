@@ -27,7 +27,7 @@
 * **顶级线路：** 多条独立 **IEPL/IPLC 专线**接入，**境内BGP入口+多省原生入口**，**Anycast**任拨技术，无视高峰波动。
 * **线路模式：** 可自行设置 China-East, China-South 等**境内入口** ，也可切换为**海外直连**，无视特殊时期拔线风险，**稳定性更佳**
 * **协议支持：** 全面支持 **AnyTLS** 协议
-* **软件兼容：** **完美适配** Clash, Surge, Shadowrocket, Quantumult (X) 等主流客户端。
+* **软件兼容：** **完美适配** Clash Meta, Shadowrocket, Quantumult (X) 等主流客户端。
 * **节点说明：** **Premium** 节点需要单独购买 **Premium Access** 服务，Premium Access **依赖于**基础服务
 * **纯净落地：** 拥有多地区 **家宽（住宅）纯净 IP** 节点。
 * **极速带宽：** 限速 2000Mbps，实测最高可冲击 **5Gbps** 极限带宽。
@@ -55,5 +55,5 @@
 
 ### 🚀 快速开始
 1. **[点击这里注册 Nexitally 账号](https://nxonearth.com/signupbyemail.aspx?MemberCode=9b6eb72753fb4d8985ea7c21dea03c1720260314211249   )**
-2. 根据您的设备下载/购买对应客户端（Clash / Surge / Quantumult X）。
+2. 根据您的设备下载/购买对应客户端（Clash / Shadowrocket / Quantumult X）。
 3. 导入订阅链接，享受极致专线体验！
