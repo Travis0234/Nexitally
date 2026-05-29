@@ -30,7 +30,7 @@
 * **软件兼容：** **完美适配** Clash Meta, Shadowrocket, Quantumult (X) 等主流客户端。
 * **节点说明：** **Premium** 节点需要单独购买 **Premium Access** 服务，Premium Access **依赖于**基础服务
 * **纯净落地：** 拥有多地区 **家宽（住宅）纯净 IP** 节点。
-* **极速带宽：** 限速 2000Mbps，实测最高可冲击 **5Gbps** 极限带宽。
+* **极速带宽：** 限速 **2000Mbps**，实测最高可冲击 **5Gbps** 极限带宽。
 
 ---
 
