@@ -17,6 +17,8 @@
 ### 📖 品牌介绍
 * **官方名称：** [Nexitally (奶昔/佩奇）](https://nxonearth.com/signupbyemail.aspx?MemberCode=9b6eb72753fb4d8985ea7c21dea03c1720260314211249)
 * **官网链接：**[Nexitally-Sign Up](https://nxonearth.com/signupbyemail.aspx?MemberCode=9b6eb72753fb4d8985ea7c21dea03c1720260314211249)
+* *备用链接：[全球网络加速服务
+NEXITALLY](https://nxonearth.com/signupbyemail.aspx?MemberCode=9b6eb72753fb4d8985ea7c21dea03c1720260314211249)
 * **我的邀请码：**[https://dub.sh/2T7RxaI](https://dub.sh/2T7RxaI) （感谢支持！）
 * **Telegram 频道：** [Telegram@nexitally_official](https://t.me/nexitally_official)
 * **行业地位：** 知名电报频道 **“前女友机场测评频道”** 常年稳居**一线第一名**
