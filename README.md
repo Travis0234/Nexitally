@@ -58,4 +58,4 @@ NEXITALLY](https://nxonearth.com/signupbyemail.aspx?MemberCode=9b6eb72753fb4d898
 ### 🚀 快速开始
 1. **[点击这里注册 Nexitally 账号](https://nxonearth.com/signupbyemail.aspx?MemberCode=9b6eb72753fb4d8985ea7c21dea03c1720260314211249   )**
 2. 根据您的设备下载/购买对应客户端（Clash / Shadowrocket / Quantumult X）。
-3. 导入订阅链接，享受极致IEPL专线体验！
+3. 导入订阅链接，享受极致IEPL专线体验！ 
