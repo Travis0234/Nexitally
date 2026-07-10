@@ -6,7 +6,7 @@
 
 ---
 
-**[🟥 2026.7 特殊时期稳定机场推荐 (2026.7.10更新)]**(https://github.com/Travis0234/Nexitally/blob/main/%E7%89%B9%E6%AE%8A%E6%97%B6%E6%9C%9F.md)
+**[🟥 2026.7 特殊时期稳定机场推荐 | 2026.7.10更新]**(https://github.com/Travis0234/Nexitally/blob/main/%E7%89%B9%E6%AE%8A%E6%97%B6%E6%9C%9F.md)
 
 *[👉 点击此处：前往🥛 Nexitally 奶昔机场 官方注册地址](https://nxonearth.com/signupbyemail.aspx?MemberCode=9b6eb72753fb4d8985ea7c21dea03c1720260314211249)*
 
