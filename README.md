@@ -1,18 +1,18 @@
 # 🌐 Nexitally 奶昔/佩奇 - 顶级IEPL专线机场
 
-# 🟥 必看
+## 🟥 必看
 （260709更新）先看我！自2026年4月起国内对“非法用于跨境联网”的机房进行了**巨大规模的清查**，大量专线和中转机场营业受到了**猛烈冲击**。因此推荐一些当今**稳定能用**并且**高速好用**的机场，我将其放在了本仓库[**特殊时期.md**](https://github.com/Travis0234/Nexitally/blob/main/%E7%89%B9%E6%AE%8A%E6%97%B6%E6%9C%9F.md)中，强烈建议你看一看！
 前往👉[「特殊时期必看 稳定机场推荐」](https://github.com/Travis0234/Nexitally/blob/main/%E7%89%B9%E6%AE%8A%E6%97%B6%E6%9C%9F.md)
 
 ---
 
-**[👉 点击此处：前往🥛 Nexitally 奶昔机场 官方注册地址](https://nxonearth.com/signupbyemail.aspx?MemberCode=9b6eb72753fb4d8985ea7c21dea03c1720260314211249)**
+**[🟥 2026.7 特殊时期稳定机场推荐 (2026.7.10更新)]**(https://github.com/Travis0234/Nexitally/blob/main/%E7%89%B9%E6%AE%8A%E6%97%B6%E6%9C%9F.md)
 
-**[👉 点击此处：前往🥛 Nexitally 奶昔机场 官方注册地址](https://dub.sh/2T7RxaI)**
+*[👉 点击此处：前往🥛 Nexitally 奶昔机场 官方注册地址](https://nxonearth.com/signupbyemail.aspx?MemberCode=9b6eb72753fb4d8985ea7c21dea03c1720260314211249)*
 
-**[👉 点击此处：前往🥛 Nexitally 奶昔机场 官方注册地址](https://nxonearth.com/signupbyemail.aspx?MemberCode=9b6eb72753fb4d8985ea7c21dea03c1720260314211249)**
+*[👉 点击此处：前往🥛 Nexitally 奶昔机场 官方注册地址](https://dub.sh/2T7RxaI)*
 
-**[🎉 我的个人博客：Travis's Blog | 科学上网 技术分享](https://travisblog.qzz.io/)**
+*[🎉 我的个人博客：Travis's Blog | 科学上网 技术分享](https://travisblog.qzz.io/)
 
 
 ### 📖 品牌介绍
