@@ -1,5 +1,62 @@
 # 🌐 Nexitally 奶昔/佩奇 - 顶级IEPL专线机场
 
+## 🛡️ 特殊时期机场推荐
+
+> **（260422）（260504）（260510）（260517）(260524)（260530）（260606）（260621）(260628)（260709）（260710） (260717) ** > 近期中转机场面临拔线风险，稳定性骤降！你可以尝试这几家机场作为备用。
+
+---
+### 1.[VikingLinks 维京网络 (优化直连/专线机场） 🐋](https://dub.sh/D2YOmTM)
+* **官网：**[VikingLinks 您的高速网络](https://feeds.viking-links.tech/#/register?code=7gYxwhpm)
+* **我的邀请码：**[https://dub.sh/D2YOmTM](https://dub.sh/D2YOmTM)
+
+
+近期**最热门**，没有之一！群友**评价很高**；初级套餐用的是透传，建议上高级套餐，用的是**真IEPL专线**，还有**GoMami顶级优化直连**线路！
+
+前女友那里已经排到了奶昔（Nexitally）前，可见**热度与实力**！
+
+---
+
+### 2.[WgetCloud（GaCloud）港荣镜像 ☁](https://dub.sh/pLMwpmY)
+* **官网：**[WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=7qdxzZ)
+* **我的邀请码：**[https://dub.sh/pLMwpmY](https://dub.sh/pLMwpmY)
+
+
+知名度不必多说，**高端**机场的代名词，IEPL/IPLC/IX**顶级专线**，特殊时期**依旧稳定**！
+
+目前个人感觉**质量高于奶昔**，追求**极致体验**闭眼入！
+
+---
+
+### 3.[肯の机 (顶级优化直连) 🐔](https://dub.sh/XdiYuyg)
+* **官网：**[肯の机](https://kendeji.io/#/auth?invite=uucIlAtJ)
+* **我的邀请码：**[https://dub.sh/XdiYuyg](https://dub.sh/XdiYuyg)
+
+质量非常高的优化直连！三网优化架构，全线路CN2GIA+9929+CMIN2。还有超低倍率0.01倍不限速节点！
+
+下载、追剧、AI、学业、办公，肯德基足够！
+
+节点有Nebrust、GoMami、DMIT等，质量非常高！
+
+---
+
+### 4. [良心云（直连机场）☁️](https://dub.sh/I3KzmVQ)
+* **官网：** [良心云 EZ-LX-CLOUD](https://xn--9kqz23b19z.com/#/register?code=6az2GigI)
+* **我的邀请码：**[https://dub.sh/I3KzmVQ](https://dub.sh/I3KzmVQ)
+
+
+先说价格：**4元500G，6元1T**，还有不限时套餐。
+
+虽是直连但落地也是清一色的AWS，流媒体解锁居然还不错！**速度非常不错**。Vless+Hy2，Hy2晚上表现挺好。⚡
+
+**性价比夯爆了**
+
+特殊时期，建议人手一两个直连机场，这家机场就是一个很好的选择。
+
+---
+
+> **截止到20260717**，持续收集特殊时期稳定机场。想要稳定科学上网翻墙，请关注 **Travis0234** 并为此仓库点一个 **Star** 和 **Fork**，感谢！🙏
+
+
 ## 🟥 必看
 （260717更新）先看我！自2026年4月起国内对“非法用于跨境联网”的机房进行了**巨大规模的清查**，大量专线和中转机场营业受到了**猛烈冲击**。因此推荐一些当今**稳定能用**并且**高速好用**的机场，我将其放在了本仓库[**特殊时期.md**](https://github.com/Travis0234/Nexitally/blob/main/%E7%89%B9%E6%AE%8A%E6%97%B6%E6%9C%9F.md)中，强烈建议你看一看！
 另外我敢说，整个 GitHub 上我 Travis0234 的机场推荐**最及时最稳定**，建议收藏此页面并给我的项目点上一颗 Star✨
