@@ -4,6 +4,8 @@
 
 *[👉 点击此处：前往🥛 Nexitally 奶昔机场 官方注册地址](https://dub.sh/2T7RxaI)*
 
+*[🔰 更多稳定机场/高性价比机场推荐](https://github.com/Travis0234/Nexitally/blob/main/更多机场推荐.md)
+
 
 ### 📖 品牌介绍
 * **官方名称：** [Nexitally (奶昔/佩奇）](https://dub.sh/2T7RxaI)
@@ -19,7 +21,7 @@ NEXITALLY](https://nxonearth.com/signupbyemail.aspx?MemberCode=9b6eb72753fb4d898
 ### ⚡ 技术规格与优势
 * **顶级线路：** 多条独立 **IEPL/IPLC 专线**接入，**境内BGP入口+多省原生入口**，**Anycast**任拨技术，无视高峰波动。
 * **线路模式：** 可自行设置 China-East, China-South 等**境内入口** ，也可切换为**海外直连**，无视特殊时期拔线风险，**稳定性更佳**
-* **协议支持：** 全面支持 **AnyTLS** 协议
+* **协议支持：** 全面支持 **AnyTLS** 与 **Shadowsocks**协议
 * **软件兼容：** **完美适配** Clash Meta, Shadowrocket, Quantumult (X) 等主流客户端。
 * **节点说明：** **Premium** 节点需要单独购买 **Premium Access** 服务，Premium Access **依赖于**基础服务
 * **纯净落地：** 拥有多地区 **家宽（住宅）纯净 IP** 节点。
