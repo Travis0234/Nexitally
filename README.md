@@ -6,6 +6,8 @@
 
 *[🔰 更多稳定机场/高性价比机场推荐](https://github.com/Travis0234/Nexitally/blob/main/更多机场推荐.md)*
 
+*[💰 点击进入便宜低价机场推荐](https://github.com/Travis0234/Nexitally/blob/main/便宜低价机场推荐.md)*
+
 
 ### 📖 品牌介绍
 * **官方名称：** [Nexitally (奶昔/佩奇）](https://dub.sh/2T7RxaI)
