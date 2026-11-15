@@ -4,11 +4,15 @@
 
 *[👉 点击此处：前往🥛 Nexitally 奶昔机场 官方注册地址](https://dub.sh/2T7RxaI)*
 
+### 📝 我的博客
+
+**[Travis Blog — travisblog.qzz.io](https://travisblog.qzz.io/)**：机场详细评测、科普文章、TG 推荐都在这里，先看评测再选机场！
+
 ## 🔰 更多机场推荐
 
 > [!TIP]
 > | 🔰 更多稳定机场 | 💰 便宜低价机场 |
-> | :---: | :---: |
+> |:---: |:---: |
 > | [**高性价比机场推荐**](https://github.com/Travis0234/Nexitally/blob/main/更多机场推荐.md) | [**点击进入便宜推荐**](https://github.com/Travis0234/Nexitally/blob/main/便宜低价机场推荐.md) |
 
 
@@ -20,6 +24,7 @@ NEXITALLY](https://nxonearth.com/signupbyemail.aspx?MemberCode=9b6eb72753fb4d898
 * **我的邀请码：**[https://dub.sh/2T7RxaI](https://dub.sh/2T7RxaI) （感谢支持！）
 * **Telegram 频道：** [Telegram@nexitally_official](https://t.me/nexitally_official)
 * **行业地位：** 知名电报频道 **“前女友机场测评频道”** 常年稳居**一线第一名**
+* **博客评测：** [Nexitally 奶昔/佩奇 专线机场](https://travisblog.qzz.io/article/top-nexitally-proxy)
 
 ---
 
@@ -54,6 +59,6 @@ NEXITALLY](https://nxonearth.com/signupbyemail.aspx?MemberCode=9b6eb72753fb4d898
 ---
 
 ### 🚀 快速开始
-1. **[点击这里注册 Nexitally 账号](https://nxonearth.com/signupbyemail.aspx?MemberCode=9b6eb72753fb4d8985ea7c21dea03c1720260314211249   )**
+1. **[点击这里注册 Nexitally 账号](https://nxonearth.com/signupbyemail.aspx?MemberCode=9b6eb72753fb4d8985ea7c21dea03c1720260314211249)**
 2. 根据您的设备下载/购买对应客户端（Clash / Shadowrocket / Quantumult X）。
-3. 导入订阅链接，享受极致IEPL专线体验！ 
+3. 导入订阅链接，享受极致IEPL专线体验！
