@@ -1,5 +1,7 @@
 # 🌐 Nexitally (奶昔机场 / 佩奇机场) | 全网最强 NO.1 专线机场
 
+> **更新月日：1121**
+
 *[👉 点击此处：前往🥛 Nexitally 奶昔机场 官方注册地址](https://nxonearth.com/signupbyemail.aspx?MemberCode=9b6eb72753fb4d8985ea7c21dea03c1720260314211249)*
 
 *[👉 点击此处：前往🥛 Nexitally 奶昔机场 官方注册地址](https://dub.sh/2T7RxaI)*
